@@ -1,0 +1,15 @@
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.csprojAssemblyReference.cache
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.LoginOracleForm.resources
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.MainForm.resources
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.Properties.Resources.resources
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.csproj.GenerateResource.cache
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.csproj.CoreCompileInputs.cache
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.exe
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.pdb
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\bin\Release\OracleDataTools.exe.config
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\bin\Release\OracleDataTools.exe
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\bin\Release\OracleDataTools.pdb
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\bin\Release\ICSharpCode.SharpZipLib.xml
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\bin\Release\log4net.xml
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.csproj.Fody.CopyLocal.cache
+C:\Users\fengj\source\repos\OracleDataTools\OracleDataTools\obj\Release\OracleDataTools.csproj.CopyComplete
